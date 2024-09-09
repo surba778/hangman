@@ -23,7 +23,7 @@ Clone the project to your local machine and install dependencies:
  
 - npm run dev
  
-- You can view the game in your browser at http://localhost:3000.
+- You can view the game in your browser at http://localhost:3000/
  
 ## Usage:
  
