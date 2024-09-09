@@ -42,3 +42,8 @@ Clone the project to your local machine and install dependencies:
 - HangmanDrawing: Updates the hangman drawing based on incorrect guesses.
 - HangmanWord: Provides the display of the guessed and hidden word.
 - Keyboard: Virtual keyboard component for guessing.
+
+## Roles
+
+- Suresh - Full project
+- Samet - Readme file
