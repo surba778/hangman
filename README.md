@@ -13,7 +13,7 @@
  
 Clone the project to your local machine and install dependencies:
  
--  git clone https://github.com/username/hangman-game.git
+-  git clone https://github.com/surba778/hangman.git
 - cd hangman-game
 - npm install
  
